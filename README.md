@@ -12,3 +12,5 @@ Required programs
 [AviSynth+](https://github.com/AviSynth/AviSynthPlus)
 
 Initially tried feeding the mov straight to x264 without avs, but ran into issues with 1-frame differences on 2-pass encoding.
+
+NOTE: Created with chatgpt
